@@ -1,4 +1,4 @@
-package dugong
+package xlogrus
 
 import (
 	"compress/gzip"

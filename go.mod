@@ -1,4 +1,4 @@
-module github.com/withqb/xlogrus
+module github.com/with/xlogrus
 
 go 1.21
 

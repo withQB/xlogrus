@@ -12,7 +12,7 @@ import (
 	log "github.com/sirupsen/logrus"
 )
 
-// RotationScheduler determines when files should be rotated.
+//  RotationScheduler determines when files should be rotated.
 type RotationScheduler interface {
 	// ShouldRotate returns true if the file should be rotated. The suffix to apply
 	// to the filename is returned as the 2nd arg.
